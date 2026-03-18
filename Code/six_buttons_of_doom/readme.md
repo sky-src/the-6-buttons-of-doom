@@ -1,9 +1,5 @@
 # six_buttons_of_doom
 
-![six_buttons_of_doom](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
-
 * Keyboard Maintainer: [sky](https://github.com/sky)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
